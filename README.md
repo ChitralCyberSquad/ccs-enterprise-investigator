@@ -39,7 +39,7 @@ Feature availability depends on the operating system, permissions, and network a
 
 The following screenshot demonstrates the CCS Enterprise Investigator terminal interface.
 
-![CCS Enterprise Investigator](screenshots/ccs-enterprise-investigator.png)
+![CCS Enterprise Investigator](screenshots/IMG-20261021-WA0015.jpg)
 
 Before publishing screenshots, remove installation identifiers, passwords, private information, and sensitive investigation data.
 
